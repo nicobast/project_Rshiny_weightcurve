@@ -1,0 +1,12 @@
+name: weight_curve
+title: weight_curve
+username:
+account: nicobast
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3741550
+bundleId: 4304792
+url: https://nicobast.shinyapps.io/weight_curve/
+when: 1614951074.51747
+asMultiple: FALSE
+asStatic: FALSE
